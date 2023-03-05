@@ -1,1 +1,1 @@
-# angular-master-details-crud
+# Basic billing calculation app for resturant
